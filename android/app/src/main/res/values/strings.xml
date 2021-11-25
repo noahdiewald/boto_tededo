@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Boto Tededo</string>
+    <string name="title_activity_main">Boto Tededo</string>
+    <string name="package_name">org.tededo.boto</string>
+    <string name="custom_url_scheme">org.tededo.boto</string>
+</resources>

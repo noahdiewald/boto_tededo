@@ -1,0 +1,6 @@
+{
+	"appId": "org.tededo.boto",
+	"appName": "Boto Tededo",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

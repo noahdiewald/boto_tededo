@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@capacitor-community/electron": "^4.0.3",
+    "@capacitor/android": "^3.3.2",
+    "@capacitor/core": "^3.3.2",
+    "bulma": "^0.9.3",
+    "elm": "^0.19.1-5",
+    "env-cmd": "^10.1.0",
+    "parcel": "^2.0.1",
+    "pouchdb": "^7.2.2",
+    "pouchdb-browser": "^7.2.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.3.2",
+    "@parcel/packager-raw-url": "^2.0.1",
+    "@parcel/transformer-elm": "^2.0.1",
+    "@parcel/transformer-webmanifest": "^2.0.1"
+  },
+  "scripts": {
+    "emulator": "npx env-cmd cap run android",
+    "open": "npx env-cmd cap open android"
+  }
+}
